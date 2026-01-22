@@ -36,4 +36,4 @@ jobs:
           context: .
           push: true
           # Replace 'youruser' with your actual Docker Hub username
-          tags: youruser/hello-python:latest
+          tags: ommpani/hello-python:latest
